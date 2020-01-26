@@ -1,0 +1,43 @@
+body {
+    background-color: blanchedalmond;
+} 
+
+h1 {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: blanchedalmond;
+   font-size: 72px;
+   background-color: lightslategray;
+   border-radius: 25px;
+   text-align: center;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightslategray;
+    font-size: 20pt;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightslategray;
+    font-size: 36pt;
+}
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightslategray;
+    font-size: 20pt;
+}
+
+.navlist {
+    color: blanchedalmond;
+}
+
+nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blanchedalmond;
+    font-size: 36pt;
+    background-color: lightslategray;
+    text-align: center;
+    border-radius: 15px;
+}
