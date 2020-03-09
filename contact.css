@@ -1,55 +1,74 @@
 body {
-    background-color: blanchedalmond;
+  background-color: blanchedalmond;
 }
 
 .navlist {
-    color: blanchedalmond;
+  color: blanchedalmond;
 }
 
 nav {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: blanchedalmond;
-    font-size: 36pt;
-    background-color: lightslategray;
-    text-align: center;
-    border-radius: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: blanchedalmond;
+  font-size: 36pt;
+  background-color: lightslategray;
+  text-align: center;
+  border-radius: 15px;
 }
 
 #questions {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: lightslategray;
-    font-size: 20pt;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: lightslategray;
+  font-size: 20pt;
 }
 
-.questions{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: lightslategray;
-    font-size: 20pt;
+.questions {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: lightslategray;
+  font-size: 20pt;
 }
 
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: blanchedalmond;
-    font-size: 72px;
-    background-color: lightslategray;
-    border-radius: 25px;
-    text-align: center;
- }
- 
- p {
-     font-family: Verdana, Geneva, Tahoma, sans-serif;
-     color: lightslategray;
-     font-size: 20pt;
- }
- 
- h2 {
-     font-family: Verdana, Geneva, Tahoma, sans-serif;
-     color: lightslategray;
-     font-size: 36pt;
- }
- 
- li {
-     font-family: Verdana, Geneva, Tahoma, sans-serif;
-     color: lightslategray;
-     font-size: 20pt;
- }
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: blanchedalmond;
+  font-size: 72px;
+  background-color: lightslategray;
+  border-radius: 25px;
+  text-align: center;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: lightslategray;
+  font-size: 20pt;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: lightslategray;
+  font-size: 36pt;
+}
+
+li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: lightslategray;
+  font-size: 20pt;
+}
+
+h5 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: lightslategray;
+  font-size: 22pt;
+  margin-bottom: 5px;
+}
+
+.devicon-github-plain {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: lightslategray;
+  font-size: 20pt;
+}
+
+.links {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: lightslategray;
+  font-size: 20pt;
+}
